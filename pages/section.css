@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+@media (max-width: 760px) {
+    .pa {
+        overflow: hidden;
+        text-align: justify;
+    }
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Fredoka;
+}
+
+.heading {
+    padding: 1.5rem;
+    color: rgb(52, 0, 110);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+    
+}
+
+
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
+}
+
+.box2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
+}
+
+.box3{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
+}
+
+.box4{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
+}
+
+.box5{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
+}
+
+.box6 {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
+}
+
+.box7{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
+}
+
+body {
+    background: linear-gradient(90deg, rgba(245,221,255,1) 23%, rgba(220,255,249,1) 77%);
+    }
+
+
+article {
+    border: 3px rgb(200, 152, 255) solid;
+    border-radius: 10px;
+}
+
+img {
+    padding: 1rem;
+}
+
+.art {
+    position: relative;
+    max-height: 260px;
+}
+
+
+.para1 {
+    position: absolute;
+    top: -130px;
+    left: 300px;
+}
+
+.para2 {
+    position: absolute;
+    top: -140px;
+    left: 300px;
+}
+
+.para3 {
+    position: absolute;
+    top: -160px;
+    left: 300px;
+}
+
+.para4 {
+    position: absolute;
+    top: -130px;
+    left: 300px;
+}
+
+.para5 {
+    position: absolute;
+    top: -130px;
+    left: 300px;
+}
+
+.para6 {
+    position: absolute;
+    top: -120px;
+    left: 300px;
+}
+
+.para7 {
+    position: absolute;
+    top: -130px;
+    left: 300px;
+}
+

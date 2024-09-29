@@ -25,3 +25,7 @@ background: linear-gradient(90deg, rgba(245,221,255,1) 23%, rgba(220,255,249,1) 
 .para {
     padding: 1.5rem;
 }
+
+.table {
+    padding: 1.5rem;
+}
