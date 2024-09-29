@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Fredoka;
+}
+
+body {
+background: linear-gradient(90deg, rgba(245,221,255,1) 23%, rgba(220,255,249,1) 77%);
+}
+
+.heading {
+    padding: 1.5rem;
+    color: rgb(52, 0, 110);
+}
+
+.heading1{
+    padding: 0 1.5rem;
+    color: rgb(52, 0, 110);
+}
+
+
+.para {
+    padding: 1.5rem;
+}
