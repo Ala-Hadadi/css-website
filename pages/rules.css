@@ -28,6 +28,11 @@ div {
     background: radial-gradient(circle, rgba(139,158,255,1) 0%, rgba(238,139,159,1) 98%);
 }
 
+a {
+    display: flex;
+    justify-content: center;
+}
+
 .heading {
     padding: 1.5rem;
     color: rgb(52, 0, 110);
